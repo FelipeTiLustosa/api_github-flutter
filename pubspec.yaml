@@ -1,0 +1,29 @@
+name: api_github              # Nome do aplicativo, utilizado para identificação
+description: A new Flutter project.  # Descrição curta do aplicativo
+version: 1.0.0+1              # Versão do aplicativo no formato <major>.<minor>.<patch>+<build_number>
+
+environment:                   # Definição do SDK que o aplicativo precisa para ser executado
+  sdk: '>=3.0.0 <4.0.0'       # A versão mínima do Flutter SDK necessária para rodar este aplicativo (versão 3.0.0 ou maior, mas menor que 4.0.0)
+
+dependencies:                  # Dependências necessárias para a execução do aplicativo
+  flutter:                     # SDK do Flutter necessário para rodar o aplicativo
+    sdk: flutter               
+  cupertino_icons: ^1.0.8      # Icones do estilo Cupertino (iOS) para o Flutter
+  device_preview: ^1.0.1       # Permite visualizar o aplicativo em diferentes dispositivos (simulação)
+  http: ^1.1.0                 # Pacote para fazer requisições HTTP (usado, por exemplo, nas chamadas da API do GitHub)
+  flutter_secure_storage: ^9.0.0  # Armazenamento seguro para dados sensíveis (como tokens de autenticação)
+  lottie: ^2.7.0               # Pacote para animar e exibir arquivos Lottie (animações JSON)
+  google_fonts: ^6.1.0         # Pacote para utilizar fontes do Google no Flutter
+  shimmer: ^3.0.0             # Efeito de shimmer (carregamento) para exibir indicadores de carregamento
+  url_launcher: ^6.1.14        # Lançador de URLs, usado para abrir links, como links para repositórios no navegador
+  font_awesome_flutter: ^10.6.0 # Pacote que contém ícones da biblioteca Font Awesome para Flutter
+
+dev_dependencies:              # Dependências usadas apenas em tempo de desenvolvimento (como ferramentas de teste)
+  flutter_test:                # Pacote de testes unitários do Flutter
+    sdk: flutter
+  flutter_lints: ^2.0.0        # Conjunto de regras de linting (para ajudar a manter um código consistente)
+
+flutter:                        # Configurações específicas do Flutter
+  uses-material-design: true    # Indica que o projeto usa o sistema de design Material, que traz vários componentes visuais
+  assets:                       # Define os recursos estáticos do projeto (como imagens ou animações)
+    - assets/animations/        # Diretório onde estão armazenadas as animações Lottie do projeto

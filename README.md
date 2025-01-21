@@ -42,7 +42,7 @@ Abaixo estão listadas as principais funcionalidades do projeto:
 Siga os passos abaixo para configurar e executar o projeto localmente:
 
 ### 5.1. Pré-requisitos
-
+ 
 - Flutter SDK ≥ 3.0.0
 - Dart SDK ≥ 3.0.0
 - Editor de código (VS Code ou Android Studio)

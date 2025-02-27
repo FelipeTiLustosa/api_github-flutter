@@ -91,6 +91,16 @@ api_github-flutter/
 ├── pubspec.yaml                     # Arquivo de configuração do projeto Flutter
 ```
 
+## 8. Imagens do Projeto
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9837e83c-0e4f-4902-93d8-cd8b071c76f1" alt="Captura de tela 2025-02-26 235531" width="300" style="margin-right:10px;">
+  <img src="https://github.com/user-attachments/assets/c923ae3d-7dcb-4414-bcd0-165a09f938df" alt="Captura de tela 2025-02-26 235603" width="305">
+</p>
+
+
+
+
 ## 8. Link do vídeo explicativo sobre o projeto
 
 [Link do vídeo demonstrativo](https://youtu.be/a6SSw6kvukw?si=uR3zhW79hlxwzJBE)

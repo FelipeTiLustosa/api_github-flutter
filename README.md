@@ -102,5 +102,5 @@ api_github-flutter/
 
 ## 8. Link do vídeo explicativo sobre o projeto
 
-[Link do vídeo demonstrativo](https://youtu.be/cIkPWuZSGSo)
+[Link do vídeo demonstrativo](https://youtu.be/LioItCjWKvM)
 

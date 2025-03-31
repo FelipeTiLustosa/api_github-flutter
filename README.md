@@ -98,8 +98,6 @@ api_github-flutter/
   <img src="https://github.com/user-attachments/assets/c923ae3d-7dcb-4414-bcd0-165a09f938df" alt="Captura de tela 2025-02-26 235603" width="305">
 </p>
 
-
-
 ## 8. Link do vídeo explicativo sobre o projeto
 
 [Link do vídeo demonstrativo](https://youtu.be/LioItCjWKvM)
